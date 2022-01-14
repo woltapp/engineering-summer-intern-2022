@@ -37,7 +37,9 @@ When reviewing your code, we will focus on the part that fulfils the requirement
 Pro tip: When you think you are ready with the assignment, take at least a few hours break, and then go through the code one more time before returning it.
 
 ### Submitting the assignment
-Bundle everything into a Zip archive and upload it to Google Drive, Dropbox or similar and include the link in the application. Remember to check permissions! If we cannot access the file, we cannot review your code. Please don’t store your solution in a public GitHub repository during the application period.
+Bundle everything into a Zip archive and upload it to Google Drive, Dropbox or similar. Include the link in your application to either [**Helsinki**](https://wolt.com/en/jobs/posting/ccc1229f-8058-48b0-8a3f-54157a6603b8) or [**Berlin**](https://wolt.com/en/jobs/posting/cd40d78d-29db-47d9-a544-2f969bb40ba4).
+
+Remember to check permissions! If we cannot access the file, we cannot review your code. Please don’t store your solution in a public GitHub repository during the application period.
 
 A good check before sending your task is to unzip the Zip archive into a new folder and check that building and running the project works, using the steps you define in readme.md. Forgotten dependencies and instructions can sometimes happen even to the best of us.
 
