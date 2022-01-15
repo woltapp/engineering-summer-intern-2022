@@ -23,7 +23,7 @@ Rules for calculating a delivery fee
   * Example 1: If the delivery distance is 1499 meters, the delivery fee is: 2€ base fee + 1€ for the additional 500 m => 3€
   * Example 2: If the delivery distance is 1500 meters, the delivery fee is: 2€ base fee + 1€ for the additional 500 m => 3€
   * Example 3: If the delivery distance is 1501 meters, the delivery fee is: 2€ base fee + 1€ for the first 500 m + 1€ for the second 500 m => 4€
-* If the number of items is five or more, an additional 50 cent surcharge is added for each item above five
+* If the number of items is five or more, an additional 50 cent surcharge is added for each item above four
   * Example 1: If the number of items is 4, no extra surcharge
   * Example 2: If the number of items is 5, 50 cents surcharge is added
   * Example 3: If the number of items is 10, 3€ surcharge (6 x 50 cents) is added    
